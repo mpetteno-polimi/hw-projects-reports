@@ -1,2 +1,3 @@
-# hw-projects-reports
-Repository containing the reports of the projects done as homeworks in MAE
+# MAE HW Projects Reports
+
+Repository containing the reports of the projects done as homeworks in MAE.
